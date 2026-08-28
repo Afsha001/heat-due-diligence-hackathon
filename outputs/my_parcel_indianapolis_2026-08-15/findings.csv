@@ -1,0 +1,9 @@
+trigger,measured,threshold,verdict,action,program
+Hours above 27 °C over 168 h,72.0 h (43% of window),27 °C (NOAA Caution),ELEVATED,"Cooling load is duration-driven, not peak-driven; model annual hours, and specify envelope for sustained rather than instantaneous load.",ASHRAE 90.1 / ASHRAE 55 — Thermal Environmental Conditions
+Longest consecutive run above threshold,7.0 h,12 h (overnight recovery),RECOVERS OVERNIGHT,Exposed thermal mass remains a viable passive strategy on this site.,EPA Heat Island Reduction — Cool Roofs
+Impervious surface share (site vicinity),96.9%,60%,EXCEEDS,Specify high-albedo roofing and cool or permeable paving at design stage.,EPA Heat Island Reduction — Cool Roofs & Cool Pavements
+Tree canopy share (site vicinity),3.1%,15%,BELOW,Include a planting plan in the landscape package; quantify the canopy benefit before entitlement hearings.,USDA Forest Service — i-Tree
+Ground-level vegetation at frontage,15.4% of field of view,10% (pedestrian shade),ADEQUATE,Frontage already offers usable pedestrian shade.,NACTO Urban Street Design Guide
+Heat index at the hot hour (18:00),45.6 °C,32 °C (Extreme Caution),EXCEEDS,Occupant-comfort risk at peak; specify to ASHRAE 55 and plan shaded outdoor amenity.,ASHRAE 55 — Thermal Environmental Conditions
+Construction-phase worker exposure at peak hour,45.6 °C at 18:00,32.2 °C (OSHA high-heat),TRIGGERED,"Build a heat-illness prevention plan into the construction schedule and bid documents — mandatory rest, shade, and water provisions.",OSHA Heat Illness Prevention
+Peak wet-bulb temperature,25.5 °C,26 °C (evaporative-cooling limit),BELOW,Evaporative and hybrid cooling strategies remain viable on this site.,ASHRAE Handbook — HVAC Applications
